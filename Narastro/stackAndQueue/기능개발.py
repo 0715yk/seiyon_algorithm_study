@@ -1,4 +1,4 @@
-# 2021.07.06. 2021 Programmers High score kit
+# 2021.07.06. 2021 - Stack/Queue(Programmers High score kit) 
 # 기능 개발
 
 import math
