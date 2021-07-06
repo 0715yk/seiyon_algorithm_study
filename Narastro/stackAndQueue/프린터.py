@@ -1,4 +1,4 @@
-# 2021.07.06. 2021 Programmers High score kit - Stack and Queue
+# 2021.07.06. 2021 Stack/Queue(Programmers High score kit) 
 # 프린터
 
 import collections
@@ -25,7 +25,5 @@ def solution(priorities, location):
         # 위치 초기화
         location = len(prior_deq)-1
     return answer
-
-print(solution([1,2,3,2,5],3))
 
 
