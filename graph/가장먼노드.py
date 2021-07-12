@@ -8,6 +8,8 @@
 2) 그래프를 어떻게 구성할 것인가? 
     - 리스트 형태의 dict? 2차원 배열?
     - 공간 절약을 위해 dict(해시)로 ㄱㄱ
+3) 노드의 갯수를 어떻게 찾을 것이냐?
+    - while문을 한 번 더 써서 Q의 길이만큼 반복해주자!
 '''
 
 from collections import defaultdict, deque
